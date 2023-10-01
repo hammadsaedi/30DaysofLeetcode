@@ -4,7 +4,8 @@ This repository is dedicated to the 30 Days of Leetcode Challenge with GDSC CUI,
 
 ## Daily Progress
 
-- **Day 1**: [2011. Final Value of Variable After Performing Operations](Link_to_Leetcode_Problem) - [Solution](2137-final-value-of-variable-after-performing-operations)
+- **Day 1**: [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) - [Solution](2137-final-value-of-variable-after-performing-operations)
+- **Day 2**: [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) - [Solution](1470-shuffle-the-array)
 
 
 ## Contributing
