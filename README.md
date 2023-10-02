@@ -6,7 +6,7 @@ This repository is dedicated to the 30 Days of Leetcode Challenge with GDSC CUI,
 
 - **Day 1**: [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) - [Solution](2137-final-value-of-variable-after-performing-operations)
 - **Day 2**: [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) - [Solution](1470-shuffle-the-array)
-
+- **Day 3**: [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - [Solution](1480-running-sum-of-1d-array)
 
 ## Contributing
 Feel free to open a pull request if you have a better solution for a problem or want to improve the README.
