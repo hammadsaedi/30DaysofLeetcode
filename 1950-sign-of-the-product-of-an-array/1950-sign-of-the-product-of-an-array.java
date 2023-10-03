@@ -1,11 +1,11 @@
 class Solution {
     public int arraySign(int[] nums) {
-        int count = 0;
+        int sign = 1;
         for(int i : nums){
             if (i == 0) return 0;
-            count += (i > 0)?0:1;
+            if (i < 0) sign = - sign;
         }
         System.gc();
-        return ((count & 1) == 0)?1:-1; 
+        return sign; 
     }
 }
