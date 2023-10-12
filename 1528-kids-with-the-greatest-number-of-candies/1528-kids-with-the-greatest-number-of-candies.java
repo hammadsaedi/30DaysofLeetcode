@@ -6,12 +6,7 @@ class Solution {
             if(candies[i] > max) max = candies[i];
         }   
         for(int i = 0; i < candies.length; i++){
-            int sum = candies[i] + extraCandies;
-            if(sum >= max){
-                flags.add(true);
-            } else {
-                flags.add(false);
-            }
+            flags.add(candies[i] + extraCandies >= max);
         }
         return flags;
     }
