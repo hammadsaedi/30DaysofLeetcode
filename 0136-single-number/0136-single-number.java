@@ -1,10 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+        int x = 0;
         for(int i = 0; i < nums.length; i++){
-            if(!set.remove(nums[i])) 
-                set.add(nums[i]);
+            x ^= nums[i];
         }
-        return (int)set.toArray()[0];
+        return x;
     }
 }
