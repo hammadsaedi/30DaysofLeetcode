@@ -22,6 +22,8 @@ This repository is dedicated to the 30 Days of Leetcode Challenge with GDSC CUI,
 - **Day 16**: [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) - [Solution](0345-reverse-vowels-of-a-string)
 - **Day 17**: [283. Move Zeroes](https://leetcode.com/problems/move-zeroes) - [Solution](0283-move-zeroes)
 - **Day 18**: [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) - [Solution](0392-is-subsequence)
+- **Day 19**: [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) - [Solution](1392-find-the-difference-of-two-arrays)
+- **Day 20**: [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) - [Solution](1319-unique-number-of-occurrences)
 
 ## Contributing
 Feel free to open a pull request if you have a better solution for a problem or want to improve the README.
