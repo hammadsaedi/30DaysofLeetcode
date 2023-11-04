@@ -1,14 +1,7 @@
 class Solution {
-    ArrayList<Integer> list = new ArrayList<>();
+    static double sqrt5 = Math.sqrt(5);
+    static double phi = (1 + sqrt5) / 2;
     public int climbStairs(int n) {
-        if(n == 0 || n == 1){
-            list = new ArrayList<>();
-            list.add(1);
-            list.add(1);
-            return list.get(n);
-        }
-        climbStairs(n - 1);
-        list.add(list.get(n - 1) + list.get(n - 2));
-        return list.get(n);
+        return (int) Math.round((Math.pow(phi, n + 1) - Math.pow(1 - phi, n + 1)) / sqrt5);
     }
 }
