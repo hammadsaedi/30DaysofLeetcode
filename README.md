@@ -27,3 +27,19 @@ This repository is dedicated to the 30 Days of Leetcode Challenge with GDSC CUI,
 
 ## Contributing
 Feel free to open a pull request if you have a better solution for a problem or want to improve the README.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/hammadsaedi/30DaysofLeetcode/tree/master/0273-integer-to-english-words) |
+## String
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/hammadsaedi/30DaysofLeetcode/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/hammadsaedi/30DaysofLeetcode/tree/master/0273-integer-to-english-words) |
+<!---LeetCode Topics End-->
